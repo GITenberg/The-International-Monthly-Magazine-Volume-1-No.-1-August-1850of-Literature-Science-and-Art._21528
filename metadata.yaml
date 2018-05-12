@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21528#The-International-Monthly-Magazine-Volume-1-No.-1-August-1850of-Literature-Science-and-Art.
 gutenberg_bookshelf: The International Magazine of Literature, Art, and Science
 gutenberg_issued: '2007-05-19'
 gutenberg_type: Text
